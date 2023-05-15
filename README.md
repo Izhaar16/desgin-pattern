@@ -1,2 +1,2 @@
 # desgin-pattern
-Working with design pattern with bricevrs 
+Working on design pattern with bricevrs 
