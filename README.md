@@ -1,2 +1,2 @@
-# desgin-pattern
+# design-pattern
 Working on design pattern with bricevrs 
