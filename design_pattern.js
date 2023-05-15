@@ -2,6 +2,6 @@
 
 /////////////////////////////////////////////// Introduction ////////////////////////////////////////////////////
 
-Ceci est un fichier concernant l'apprenstissage de design pattern en collboration avec brice virassamy
+Ceci est un fichier concernant l'apprentissage de design pattern en collboration avec Brice
 */
 
